@@ -1,0 +1,3 @@
+C:/Users/navid/OneDrive/Desktop/C programming/Asmt #2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/navid/OneDrive/Desktop/C programming/Asmt #2/cmake-build-debug/CMakeFiles/Asmt__2.dir
+C:/Users/navid/OneDrive/Desktop/C programming/Asmt #2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
